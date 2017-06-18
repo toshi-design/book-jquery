@@ -11,10 +11,6 @@
 .menubtn {
 	display: none;
 }
-.nav-global {
-	display: block;
-}
-
 /**
  * RESPONSIVE: スマートフォン向けウィンドウ幅600px以下
  */
